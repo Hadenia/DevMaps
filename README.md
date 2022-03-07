@@ -1,11 +1,13 @@
 # DevMaps
 
-### 💻 Sobre
-Aplicativo de Mapa </br>
-Projeto da Disciplina de Desenvolvimento para Dispositivos Móveis - UFRN
+### 🔎 Sobre
+Aplicativo de Mapa, com adição de marcadores </br>
+Projeto desenvolvido para Avaliação II da Disciplina de Desenvolvimento para Dispositivos Móveis - UFRN
 
-### 🦸 Autor
-Desenvolvido por Hadênia Rodrigues
+### 💻 Tecnologias Utilizadas
+* NodeJS
+* React Native
+* Expo CLI
 
 ### 📱 Telas
 * Tela 1 - Visualização do Mapa </br >Apresenta o mapa com marcadores
@@ -21,3 +23,8 @@ Desenvolvido por Hadênia Rodrigues
 ### 🎥 Video
 Apresentação do aplicativo DevMaps funcionando em smartphone Android, moto G8 play. </br>
 Link: https://www.youtube.com/watch?v=OfYsjg86q1k
+
+
+### 🦸 Autor
+Desenvolvido por Hadênia Rodrigues </br>
+Linkedin: https://www.linkedin.com/in/hadenia/
